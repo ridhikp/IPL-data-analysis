@@ -35,7 +35,7 @@ This project presents an exploratory data analysis (EDA) of the Indian Premier L
 
 ## 📊 Key Insights
 
-- Toss winners won approximately **XX%** of matches.
+- Toss winners won approximately **51.26%** of matches.
 - Most teams **prefer to field first** after winning the toss.
 - **Run totals per season** show increasing scoring trends.
 - **Top batsmen and bowlers** are consistent performers across years.
